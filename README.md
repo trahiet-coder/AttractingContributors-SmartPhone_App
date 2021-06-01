@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. South Park
 7. Kamen Rider Series
 8. Stranger Things
+9. itte-Q
