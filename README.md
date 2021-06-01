@@ -31,4 +31,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. Kamen Rider Series
 8. Stranger Things
 9. itte-Q
-10. Fast And Furious
+10. Datsuryoku Times
+11. Fast And Furious
+
