@@ -22,5 +22,11 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 
 # List of TV Shows
-1. Godzilla: King of The Monsters
-2. Kamen Rider Series
+
+1. Godzilla
+2. Game of Thrones
+3. Marvel
+4. The Bing Bang Theory
+5. Joou no Kyousitu
+6. South Park
+7. Kamen Rider Series
