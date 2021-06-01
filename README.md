@@ -22,7 +22,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 
 # List of TV Shows
-
 1. Godzilla
 2. Game of Thrones
 3. Marvel
@@ -30,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. Joou no Kyousitu
 6. South Park
 7. Kamen Rider Series
+8. Stranger Things
