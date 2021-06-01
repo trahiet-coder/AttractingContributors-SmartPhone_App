@@ -22,5 +22,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 
 # List of TV Shows
-1. Godzilla: King of The Monsters
-Bingbang theory
+1. Godzilla
+2. Game of Thrones
+3. Marvel
+4. The Bing Bang Theory
+
