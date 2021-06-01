@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. The Bing Bang Theory
 5. Joou no Kyousitu
 6. South Park
+7. Kamen Rider Series
