@@ -25,13 +25,15 @@ What kind of font do you like? Or which fonts do you use most often?
 Please list them!
 
 # List of Fonts
-1. Tazugane Gothic
-2. Gothic UI
-3. Kyokashotai
-4. Courier
-5. Comic Sans
-6. Kokuryusyotai
-7. Hiragino
-8. TA_marushikaku
-9. pigumo01
-10.
+- Tazugane Gothic
+- Gothic UI
+- Kyokashotai
+- Courier
+- Comic Sans
+- Kokuryusyotai
+- Hiragino
+- TA_marushikaku
+- pigumo01
+- 
+- 
+- 
