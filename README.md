@@ -28,7 +28,7 @@ Please write them down below :D
 4. kumamon
 5. Miratan
 6. CHI-BA+KUN
-7.
+7. Hikonyan
 8.
 9.
 10.
