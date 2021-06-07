@@ -27,7 +27,7 @@ Please write them down below :D
 3. Yukimaru
 4. kumamon
 5. Miratan
-6.
+6. CHI-BA+KUN
 7.
 8.
 9.
