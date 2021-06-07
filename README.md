@@ -29,7 +29,7 @@ Please write them down below :D
 5. Miratan
 6. CHI-BA+KUN
 7. Hikonyan
-8.
+8. Sagimaru-kun
 9.
 10.
 11.
