@@ -22,15 +22,15 @@ Who is your favorite mascot?
 Please write them down below :D
 
 # List of Yuru-chara(Mascot)
-1. Sento-kun (example)
+0. Sento-kun (example)
+1. kumamon
 2. Minamo
 3. Yukimaru
-4. kumamon
+4. Hikonyan
 5. Miratan
 6. CHI-BA+KUN
-7. Hikonyan
-8. Sagimaru-kun
+7. Sagimaru-kun
+8. Katsue
 9.
 10.
-11.
 
