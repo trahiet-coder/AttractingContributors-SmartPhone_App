@@ -37,4 +37,5 @@ Please list them!
 - HackGenNerd
 - meiryo
 - Yu Gothic
+- URW Nimbus
 - 
