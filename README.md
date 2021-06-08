@@ -35,5 +35,6 @@ Please list them!
 - TA_marushikaku
 - pigumo01
 - HackGenNerd
+- meiryo
 - Yu Gothic
 - 
