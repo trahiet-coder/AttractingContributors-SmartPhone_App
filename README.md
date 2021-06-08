@@ -4,4 +4,5 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 # Our favorite Country
 ###### Thank you!!! <3
 1. Japan
+2. Korea
 
