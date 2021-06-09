@@ -22,5 +22,6 @@ Example: - FavApp
 # List of App
 - wechat
 - Hacka Doll
+- Twitter
 - discord
 - Kanji Recognizer
