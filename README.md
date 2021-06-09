@@ -27,3 +27,4 @@ Example: - FavApp
 - discord
 - Kanji Recognizer
 - Notion
+- Nike Run Club
