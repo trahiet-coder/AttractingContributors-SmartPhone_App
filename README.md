@@ -26,3 +26,4 @@ Example: - FavApp
 - Twitter
 - discord
 - Kanji Recognizer
+- Notion
