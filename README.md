@@ -38,4 +38,6 @@ Please list them!
 - meiryo
 - Yu Gothic
 - URW Nimbus
+- Liberation Sans
+- 
 - 
