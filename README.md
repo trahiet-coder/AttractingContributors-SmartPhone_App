@@ -31,6 +31,6 @@ Please write them down below :D
 6. CHI-BA+KUN
 7. Sagimaru-kun
 8. Katsue
-9.
+9. yukimaru
 10.
 
