@@ -28,3 +28,4 @@ Example: - FavApp
 - Kanji Recognizer
 - Notion
 - Nike Run Club
+- Winning Eleven
