@@ -25,3 +25,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. Tom Cruise
 3. Takaiwa Seiji
 4. Norman Reedus
+5. Zendaya Maree Stoermer Coleman
+6.
+
+
