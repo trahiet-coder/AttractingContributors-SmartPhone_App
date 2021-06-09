@@ -23,3 +23,5 @@ Example: - FavApp
 - wechat
 - Hacka Doll
 - Twitter
+- discord
+- Kanji Recognizer
