@@ -23,3 +23,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Actors
 1. Jason Statham
 2. Tom Cruise
+3. Takaiwa Seiji
+4. 
