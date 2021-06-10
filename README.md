@@ -15,8 +15,18 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My project
-Goal: I want to know the first games you played in your life and make a list.
+# My project (*Smart Phone App*)
+Goal - I want contributors to help me list favorite smartphone app.  
+Example: - FavApp
 
-# List of the first games you played in your life
-- 
+# List of App
+- wechat
+- Hacka Doll
+- Google Earth 
+- Twitter
+- discord
+- Kanji Recognizer
+- Notion
+- Nike Run Club
+- Winning Eleven
+- Notion
