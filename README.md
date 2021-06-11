@@ -30,3 +30,4 @@ Example: - FavApp
 - Nike Run Club
 - Winning Eleven
 - Notion
+- Pokemon GO
