@@ -31,3 +31,4 @@ Example: - FavApp
 - Winning Eleven
 - Notion
 - Pokemon GO
+- Paypay
