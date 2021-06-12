@@ -39,5 +39,5 @@ Please list them!
 - Yu Gothic
 - URW Nimbus
 - Liberation Sans
-- 
+- Monaco
 - 
