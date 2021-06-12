@@ -32,3 +32,5 @@ Example: - FavApp
 - Notion
 - Pokemon GO
 - Adobe Scan
+- Paypay
+- LINE
