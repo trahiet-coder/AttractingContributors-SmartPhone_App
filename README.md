@@ -31,5 +31,6 @@ Example: - FavApp
 - Winning Eleven
 - Notion
 - Pokemon GO
+- Adobe Scan
 - Paypay
 - LINE
