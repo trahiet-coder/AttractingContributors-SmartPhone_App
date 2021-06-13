@@ -34,3 +34,4 @@ Example: - FavApp
 - Adobe Scan
 - Paypay
 - LINE
+- Moneyforward
