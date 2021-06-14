@@ -40,5 +40,7 @@ Please list them!
 - URW Nimbus
 - Liberation Sans
 - POP
+- Genkai Mincho
+- Monaco
+- TIMES NEW ROMAN
 - 
-
