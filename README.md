@@ -40,4 +40,5 @@ Please list them!
 - URW Nimbus
 - Liberation Sans
 - Monaco
+- TIMES NEW ROMAN
 - 
