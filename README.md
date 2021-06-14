@@ -39,5 +39,9 @@ Please list them!
 - Yu Gothic
 - URW Nimbus
 - Liberation Sans
-- Helevetica
+- Helvetica
+- POP
+- Genkai Mincho
+- Monaco
+- TIMES NEW ROMAN
 - 
