@@ -40,4 +40,9 @@ Please list them!
 - URW Nimbus
 - Liberation Sans
 - Arial
+- Helvetica
+- POP
+- Genkai Mincho
+- Monaco
+- TIMES NEW ROMAN
 - 
